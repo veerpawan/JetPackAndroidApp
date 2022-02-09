@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JetPackAndroidApp</string>
+    <string name="thanks">Thanks</string>
+    <string name="mail">mail</string>
+    <string name="email_subject">hi from nobroker</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+
+</resources>
